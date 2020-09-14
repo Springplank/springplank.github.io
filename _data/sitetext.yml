@@ -1,13 +1,13 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to Project Springplank!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#overview"
 
 services:
-    title: "Services"
+    title: "Overview"
     text: "Lorem ipsum"
-    section: services
+    section: overview
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -119,7 +119,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Get in touch with Project Springplank"
     section: contact
     
 footer:
