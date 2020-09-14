@@ -5,18 +5,18 @@ header:
     buttonlink: "#overview"
 
 services:
-    title: "Overview"
-    text: "Lorem ipsum"
+    title: "Intro"
+    text: "Project Springplank has the **mission** to empower minority groups in the Netherlands by teaching relevant social- and technical skills to land a job in the Data & AI domain. Many organizations are looking for technical talent in the Data & AI space and there is a great pool with talented people looking for a challenging job. During a 26 week program, Project Springplank helps ambitious people to learn the right social and tehnical skills, while working on real-life use cases"
     section: overview
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Technical Skills"
+        desc: "Python, SQL, Architecture, Cloud Technologies, DevOps, Security, Use-cases"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Career coaching"
+        desc: "CV Building, Collaborating with team members, Preparation of Job Interview "
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Connections with Organizations](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Networking, Real-life Usecases, Experiences at Companies"
         icon: fab fa-markdown
 
 portfolio:
