@@ -17,7 +17,7 @@ services:
         icon: fas fa-arrows-alt       
       - title: "Connections with Organizations"
         desc: "Networking, Real-life Usecases, Experiences at Companies"
-        icon: fas fa-people-arrows
+        icon: fas fa-handshake
 
 portfolio:
     title: "Portfolio"
