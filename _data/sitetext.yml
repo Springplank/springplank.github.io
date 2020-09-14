@@ -11,13 +11,13 @@ services:
     list:
       - title: "Technical Skills"
         desc: "Python, SQL, Architecture, Cloud Technologies, DevOps, Security, Use-cases"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-sliders-h #find more at https://fontawesome.com/icons
       - title: "Career coaching"
         desc: "CV Building, Collaborating with team members, Preparation of Job Interview "
-        icon: fas fa-laptop       
-      - title: "[Connections with Organizations](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-arrows-alt       
+      - title: "Connections with Organizations"
         desc: "Networking, Real-life Usecases, Experiences at Companies"
-        icon: fab fa-markdown
+        icon: fas fa-people-arrows
 
 portfolio:
     title: "Portfolio"
