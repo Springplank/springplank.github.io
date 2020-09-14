@@ -112,7 +112,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Dick van der Sluijs"
         role: "Co-Founder"
-        image: assets/img/team/dvandersluijs.jpg
+        image: assets/img/team/dvandersluijs.jpeg
         social:
           - url: https://www.linkedin.com/in/dick-van-der-sluijs-a7417074/
             icon: fab fa-linkedin-in
