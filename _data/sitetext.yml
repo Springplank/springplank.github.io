@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Intro"
-    text: "Project Springplank has the mission to empower minority groups in the Netherlands by teaching relevant social- and technical skills to land a job in the Data & AI domain. Many organizations are looking for technical talent in the Data & AI space and there is a great pool with talented people looking for a challenging job. During a 26 week program, Project Springplank helps ambitious people to learn the right social and tehnical skills, while working on real-life use cases"
+    text: "Project Springplank has the mission to empower minority groups in the Netherlands by teaching relevant social- and technical skills to land a job in the Data & AI domain. Many organizations are looking for technical talent in the Data & AI space and there is a great pool with talented people looking for a challenging job. During a 26 week program, Project Springplank helps ambitious people to learn the right social and technical skills, while working on real-life use cases"
     section: overview
     list:
       - title: "Technical Skills"
