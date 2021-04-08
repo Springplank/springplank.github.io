@@ -46,7 +46,7 @@ timeline:
       - title: "Case Study - Batch Scenario"
         year: "week 11-14"
         desc: "An end-2-end case study will be build to ingest, transform and serve data in a Batch scenario. Expect to put SQL, Python and DevOps skills into practice together with your fellow students"
-        image: assets/img/timeline/batchlogo.png
+        image: assets/img/timeline/batchlogo2.png
         alt: 
         align: right
       - title: "Case Study - Streaming Scenario"
