@@ -28,7 +28,7 @@ timeline:
       - title: "Python Fundamentals"
         year: "week 1-4"
         desc: "During the first weeks, the focus will be on laying the fundamentals of Python applied to Data Engineers/Analytics. This consist of separate small exercises using open source material.  "
-        image: assets/img/timeline/pythonlogo.png
+        image: assets/img/timeline/pythonlogo2.png
         alt: 
         align: left
       - title: "SQL Fundamentals"
