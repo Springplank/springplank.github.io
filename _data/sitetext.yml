@@ -34,7 +34,7 @@ timeline:
       - title: "SQL Fundamentals"
         year: "week 5-8"
         desc: "During week 5-8, the focus will be on laying the fundamentals on SQL syntax. Again, this will be done with small separate assignments based on open source material. After week 8, students can work with SQL databases"
-        image: assets/img/timeline/sqllogo.png
+        image: assets/img/timeline/databaselogo.png
         alt: 
         align: right
       - title: "Github + DevOps"
