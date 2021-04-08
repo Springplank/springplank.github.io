@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/3d-render-abstract-background-with-low-poly-tech-design.jpg"
+header-image: "../img/banner4.jpg"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
