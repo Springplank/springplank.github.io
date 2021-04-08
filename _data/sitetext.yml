@@ -18,8 +18,7 @@ services:
       - title: "Connections with Organizations"
         desc: "Networking, Real-life Usecases, Experiences at Companies"
         icon: fas fa-handshake
-   
-
+        
 timeline:
     title: "Program of Project Springplank" 
     text: "Timeline of program"
