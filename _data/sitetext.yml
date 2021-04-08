@@ -58,7 +58,7 @@ timeline:
       - title: "Case Study - ML"
         year: "week 19-22"
         desc: "An end-2-end case study will be build to ingest, transform and serve data in a Batch scenario. Expect to put SQL, Python and DevOps skills into practice together with your fellow students"
-        image: assets/img/timeline/mllogo.png
+        image: assets/img/timeline/mlicon.png
         alt: 
         align: right
       - title: "Case Study - Enterprise ready Architectures"
