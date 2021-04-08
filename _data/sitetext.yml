@@ -64,7 +64,7 @@ timeline:
       - title: "Case Study - Enterprise ready Architectures"
         year: "week 22-24"
         desc: "This final case study will focus on making a robust enterprise ready architecture for an use-case. This case study will focus on securing, automating and scaling a cloud architecture."
-        image: assets/img/timeline/securitylogo.png
+        image: assets/img/timeline/enterprise-architecture-icon.png
         alt: 
         align: left
     end: "Sign up for the program now!"
