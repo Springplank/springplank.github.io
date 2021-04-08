@@ -41,8 +41,8 @@ timeline:
         year: "week 9-10"
         desc: "These weeks the focus lies on Github + DevOps. Best practices of organizations will be shared, and the right skills and environment will be prepared to build on the case studies in coming weeks"
         image: assets/img/timeline/githubicon.png
-        alt: image alt text
-        #align: #default is left       
+        alt: githublogo
+        align: left #default is left       
       - title: "Case Study - Batch Scenario"
         year: "week 11-14"
         desc: "An end-2-end case study will be build to ingest, transform and serve data in a Batch scenario. Expect to put SQL, Python and DevOps skills into practice together with your fellow students"
