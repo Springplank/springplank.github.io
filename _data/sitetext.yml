@@ -52,7 +52,7 @@ timeline:
       - title: "Case Study - Streaming Scenario"
         year: "week 15-18"
         desc: "An end-2-end case study will be build to ingest, transform and serve data in a Streaming scenario. Aside of the technical skills, expect to work with cloud services to build the scenario"
-        image: assets/img/timeline/streamlogo2.jpg
+        image: assets/img/timeline/streamlogo.jpg
         alt: 
         align: left
       - title: "Case Study - ML"
